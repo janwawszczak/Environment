@@ -5,7 +5,7 @@
 #include "HelloWorld.hpp"
 #include <stdexcept>
 
-namespace project
+namespace project //zmiana nowa cos tam
 {	
 
 struct CommandError: std::logic_error
